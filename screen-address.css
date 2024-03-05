@@ -69,12 +69,8 @@ div.map {
     height: 25px;
     position: relative;
     left: 382px;
-    top: -299px;
+    top: -297px;
 }
-
-.svg-overlay:hover {
-    fill: #000000;
-  }
 
 .property {
     display: flex;
