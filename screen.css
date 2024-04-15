@@ -6,6 +6,7 @@
 }
 
 body {
+    font-family: var(--font-family);
     width: 1440px;
     height: 1024px;
     background-color: var(--grey-color);
